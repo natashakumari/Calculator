@@ -1,0 +1,14 @@
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\bin\Debug\Natasha_Kumari_Final_Project.exe.config
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\bin\Debug\Natasha_Kumari_Final_Project.exe
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\bin\Debug\Natasha_Kumari_Final_Project.pdb
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\Natasha_Kumari_Final_Project.csprojAssemblyReference.cache
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\MainWindow.g.cs
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\App.g.cs
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\Natasha_Kumari_Final_Project_MarkupCompile.cache
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\Natasha_Kumari_Final_Project_MarkupCompile.lref
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\MainWindow.baml
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\Natasha_Kumari_Final_Project.g.resources
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\Natasha_Kumari_Final_Project.Properties.Resources.resources
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\Natasha_Kumari_Final_Project.csproj.GenerateResource.cache
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\Natasha_Kumari_Final_Project.exe
+C:\Users\nkumari\Desktop\C#\Natasha_Kumari_Final_Project\Natasha_Kumari_Final_Project\obj\Debug\Natasha_Kumari_Final_Project.pdb
